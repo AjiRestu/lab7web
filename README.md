@@ -88,7 +88,7 @@ output
 ### Membuat Perulangan for
 input
 
-![](photo18.PNG)
+![](photo/18.PNG)
 
 output
 
